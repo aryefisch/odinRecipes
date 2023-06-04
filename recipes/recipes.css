@@ -1,0 +1,13 @@
+*{
+    width: 600px;
+    background-color: yellow;
+    margin: 0 auto;
+}
+h1{
+    padding: 10px 0px;
+    text-align: center;
+}
+img{
+    padding: 10px 0px;
+    margin-bottom: 20px;
+}
